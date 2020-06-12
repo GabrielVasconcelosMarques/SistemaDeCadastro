@@ -1,0 +1,12 @@
+NOME: Gabriel Vasconcelos
+CPF: 00000000000
+SEXO: 1
+ESTADO: Acre
+RUA: rua a
+N°: 10
+CIDADE: olinda
+BAIRRO: teste
+TELEFONE: 88888888
+RG: 00000000
+CEP: 0000000
+EMAIL: gabrielvasco3431@gmail.com
